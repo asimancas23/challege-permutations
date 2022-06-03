@@ -1,4 +1,4 @@
-# challege-permutations
+# challenge-permutations
 
 ## Installation
 
