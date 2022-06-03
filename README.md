@@ -5,7 +5,7 @@
 You need to have Node.js installed to run this script
 
 ```
-$ cd ../challege-permutations
+$ cd ../challenge-permutations
 $ npm install
 ```
 
